@@ -13,6 +13,8 @@ p{
 	height:200px;
 	width:200px;
 	background-color:blue;
+	float:right;
+	border-radiues:10px
 }
 .bcolor-red{
 	height:200px;
